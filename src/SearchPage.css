@@ -1,0 +1,24 @@
+.searchPage__info{
+    padding: 20px;
+    
+}
+.searchPage__info > p{
+    margin-bottom: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.searchPage__info > h1{
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.searchPage__info > button{
+    background-color: #ff7779;
+    transition: .5s;
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+}
+.searchPage__info > button:hover{
+    background-color: white;
+    color: #ff7779;
+}
